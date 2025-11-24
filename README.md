@@ -1,6 +1,7 @@
 # 📈 Annual Sales Performance Dashboard
 
-This project presents a dynamic and interactive dashboard developed within the **AI for Business Analytics** course at **Turing College**. The project's objectives included correcting errors in a Google Sheets dashboard and its underlying data. Refined version transformed the dashboard into a visually compelling and insight-driven platform. Its utility lies in empowering stakeholders to quickly understand key performance indicators (KPIs), identify trends, and make informed strategic decisions.
+This project presents a dynamic and interactive dashboard for **Adventur Works Bicycles** developed in Google Sheets.
+The project's objectives included correcting errors in a Google Sheets dashboard and its underlying data. Refined version transformed the dashboard into a visually compelling and insight-driven platform. Its utility lies in empowering stakeholders to quickly understand key performance indicators (KPIs), identify trends, and make informed strategic decisions.
 
 ---
 
